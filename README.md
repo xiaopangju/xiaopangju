@@ -1,3 +1,6 @@
+![my github stats](https://github-readme-stats.vercel.app/api?username=Natsuki-Kaede&show_icons=true)
+
+
 ## 一首破诗
 很多年以前，在英语老师的第一节英语课上，她告诉我们：“英语是国际上最通用的语言。”
 
