@@ -1,4 +1,5 @@
-![my github stats](https://github-readme-stats.vercel.app/api?username=xiaopangju&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaopangju&show_icons=true)
+此图片使用https://github.com/anuraghazra/github-readme-stats/ 项目
 
 
 ## 一首破诗
